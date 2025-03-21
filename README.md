@@ -1,64 +1,95 @@
-<header>
+[#](url) 🌌 IntentFieldSim
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+**IntentFieldSim** is a real-time, intent-driven universe simulation where particles evolve, learn, and interact based on a dynamic intent field. Built with **React**, **Lovable**, and designed for **AI integration**, the system explores emergent behavior, complexity, and phase transitions as a function of informational intent.
 
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
-
-</header>
-
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-## Finish
-
-_Congratulations, you've completed this course and joined the world of developers!_
-
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
-
-Here's a recap of your accomplishments:
-
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
-
-### What's next?
-
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
-
-Check out these resources to learn more or get involved:
-
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+This project is both a scientific and artistic exploration into how **intent can act as a filtering mechanism** for information, structure, and behavior — from particles to patterns.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🚀 Features
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+- **Intent Field:** A dynamic 3D matrix that guides particle creation and evolution
+- **Particle Intelligence:** Particles learn from interactions and accumulate "knowledge"
+- **Emergent Behavior:** Cluster formation, quantum separation, and phase transitions
+- **Real-time Visualization:** Smooth 2D/3D canvas rendering powered by React
+- **AI-Ready Logging:** Architecture supports machine learning for prediction and control
+- **Metrics Dashboard:** Tracks complexity index, entropy, knowledge, and interactions
 
-</footer>
+---
+## 📊 Core Concepts
+
+| Concept             | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **Intent Field**     | A fluctuating 3D field that governs creation and movement of particles      |
+| **Learning Rate**    | Determines how quickly particles learn from interactions                   |
+| **Complexity Index** | A system-level measure of emergent structure and informational richness    |
+| **Phase Transitions**| Sudden jumps in structure caused by changes in learning or intent dynamics |
+| **Quantum Behavior** | Specialized particles that split off and behave distinctly from others      |
+
+---
+
+## 🧠 Future Directions
+
+- ✅ AI-driven phase transition prediction (LSTM, Transformers)
+- ✅ Reinforcement learning agents to guide intent field dynamics
+- ✅ Mathematical modeling of intent as an information-theoretic filter
+- ✅ Public interactive web version for collaborative exploration
+- ✅ Scientific paper and open data publication
+
+---
+
+## 🤝 Contributing
+
+Want to collaborate on AI, visualization, or theory?
+
+1. Fork the repo
+2. Create a branch: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m 'Add feature'`
+4. Push to GitHub: `git push origin feature-name`
+5. Open a Pull Request
+
+Or start a conversation in Issues or Discussions!
+
+---
+
+## 🙌 Acknowledgements
+
+- Built with 💜 using **Lovable**
+- Collaborations and ideas from **ChatGPT** and **Gemini**
+- Inspired by complexity science, cosmic evolution, and information theory
+
+---
+
+## 📜 License
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the “Software”), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software...
+
+*Full license text in `LICENSE` file.*
+
+---
+
+## 🎮 Live Demo (coming soon)
+> Want to run this in the browser? Stay tuned for a public deployment.
+
+---
+
+## 🧑‍💻 Local Setup
+
+### Prerequisites
+- Node.js (v18+)
+- Git
+- (Optional) Yarn
+
+### Installation
+
+```bash
+git clone https://github.com/TheVoidIntent/intent-driven-universe.git
+cd intent-driven-universe
+npm install    # or yarn install
+npm run dev    # or yarn dev
