@@ -30,6 +30,13 @@ This repository contains the **public-facing exploration** of the IntentSim proj
 ## 👁️‍🗨️ Stay Curious
 This is only the surface. The full simulation is running, evolving, learning.
 
+✨ New summary excerpt from summary_of_findings.md
+
+🔗 Link to full doc
+
+📂 Reference to the new sample datasets
+
+
 ---
 
 > _What if the laws of physics are the outcome of intent filtered through possibility?_
