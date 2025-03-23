@@ -73,7 +73,6 @@ simulation_energy_conservation_20250322_190957.json
 
 simulation_baseline_20250322_190957.json
 
-## Curated samples are available in the public Intentional-search repository.
 
 ### Forward-Looking Metrics
 
