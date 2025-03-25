@@ -140,26 +140,26 @@ All recordings were generated using **Notebook LM** and **Wavelength Audio**, pa
 ---
 
 ## 1. Intent as a Universal Information Filter
-- **File:** [`Intent as a Universal Information Filter.wav`](https://github.com/TheVoidIntent/IntentSim/raw/main/media/Intent%20as%20a%20Universal%20Information%20Filter.wav)
+- **File:** [`intent_filter.wav`](https://github.com/TheVoidIntent/IntentSim/raw/main/media/intent_filter.wav)
 - **Summary:** Explores the role of intent in shaping probability spaces.
 - <audio controls>
-    <source src="https://github.com/TheVoidIntent/IntentSim/raw/main/media/Intent%20as%20a%20Universal%20Information%20Filter.wav" type="audio/wav">
+    <source src="https://github.com/TheVoidIntent/IntentSim/raw/main/media/intent_filter.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
 
 ## 2. Particle Genesis: Unraveling Complexity
-- **File:** [`Particle Genesis.wav`](https://github.com/TheVoidIntent/IntentSim/raw/main/media/Particle%20Genesis.wav)
+- **File:** [`particle_genesis.wav`](https://github.com/TheVoidIntent/IntentSim/raw/main/media/particle_genesis.wav)
 - **Summary:** Reviews phase transitions, structure formation, and self-organization.
 - <audio controls>
-    <source src="https://github.com/TheVoidIntent/IntentSim/raw/main/media/Particle%20Genesis.wav" type="audio/wav">
+    <source src="https://github.com/TheVoidIntent/IntentSim/raw/main/media/particle_genesis.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
 
 ## 3. The Information-Driven Cosmos
-- **File:** [`Intent as a Universal Information Filter 2.wav`](https://github.com/TheVoidIntent/IntentSim/raw/main/media/Intent%20as%20a%20Universal%20Information%20Filter%202.wav)
+- **File:** [`intent_filter_2.wav`](https://github.com/TheVoidIntent/IntentSim/raw/main/media/intent_filter_2.wav)
 - **Summary:** Discusses the deeper philosophical implications of information-first models.
 - <audio controls>
-    <source src="https://github.com/TheVoidIntent/IntentSim/raw/main/media/Intent%20as%20a%20Universal%20Information%20Filter%202.wav" type="audio/wav">
+    <source src="https://github.com/TheVoidIntent/IntentSim/raw/main/media/intent_filter_2.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
 
@@ -193,6 +193,11 @@ Output files will appear in `/data/` as `.json` logs. Use `scripts/` to generate
 ## Notes
 - Ensure you're in the root folder before running
 - Future releases will include a dashboard view
+
+---
+
+> _“It’s not just a simulation. It’s a lens into possibility.”_
+
 
 ---
 
